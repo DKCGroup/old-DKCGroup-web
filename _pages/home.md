@@ -1,12 +1,12 @@
 ---
-title: "Allan Lab - Home"
+title: "Dong Lab -- Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Dong Lab at TBSI."
 sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+We are a research group at [TBSI](http://www.tbsi.edu.cn/english/), [Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/). Our group is lead by Dr. Kaichen Dong [(Google Scholar)](https://scholar.google.com/citations?user=TsEI4AsAAAAJ&hl=en). Our research interests are smart radiative cooling, nanophotonics, photonic crystals, photonic metamaterials/metasurface, MEMS, and phase-change materials. 
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
