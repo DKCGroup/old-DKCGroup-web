@@ -8,6 +8,7 @@ permalink: /
 
 We are a research group at [TBSI](http://www.tbsi.edu.cn/english/), [Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/). Our group is lead by Dr. Kaichen Dong [(Google Scholar)](https://scholar.google.com/citations?user=TsEI4AsAAAAJ&hl=en). Our research interests are smart radiative cooling, nanophotonics, photonic crystals, photonic metamaterials/ metasurface, MEMS, and phase-change materials. 
 
+ **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team !**[(see openings)](https://dkcgroup.github.io/vacancies)
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -62,5 +63,5 @@ We are a research group at [TBSI](http://www.tbsi.edu.cn/english/), [Shenzhen In
 </div>
 
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team !**
+
 
