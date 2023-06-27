@@ -1,5 +1,5 @@
 ---
-title: "News"
+title: "Dong Lab -- News"
 layout: textlay
 excerpt: "Dong Lab at TBSI."
 sitemap: false
