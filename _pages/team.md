@@ -19,7 +19,7 @@ permalink: /team/
   <br>email: <dkc22@sz.tsinghua.edu.cn></i>
   <h4> Professional Experience </h4>
   <ul style="overflow: hidden">
-  <li> Kaichen also holds positions at the <a href="https://www.sigs.tsinghua.edu.cn/en/2023/0315/c1303a59844/page.htm) 
+  <li> Kaichen also holds positions at the <a href="https://www.sigs.tsinghua.edu.cn/en/2023/0315/c1303a59844/page.htm
 "> institute of Data and Information (iDI) </a> and the Center of Double Helix (CDH) </li> 
   <li> Postdoc Researcher at UC Berkeley, Department of Materials Science and Engineering with Prof. Junqiao Wu and Prof. Jie Yao </li>
   <li> Postdoc affiliate at Lawrence Berkeley National Laboratory with Prof. Junqiao Wu </li>
@@ -114,4 +114,4 @@ permalink: /team/
 
 
 ## Administrative Support
-<a href="email">xxx</a> is helping us (and other groups) with administration.
+Ms. Yuemeng Wang <a href="wangyuemeng@sz.tsinghua.edu.cn">(email)</a> is helping us with administration.
