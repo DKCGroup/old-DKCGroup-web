@@ -1,14 +1,3 @@
-- name: Kaichen Dong
-  photo: KaichenDong.jpg
-  info: Assistant Professor, started Nov. 2022
-  email: dkc22@sz.tsinghua.edu.cn
-  number_educ: 5
-  education1: Postdoc Researcher at UC Berkeley, Department of Materials Science and Engineering with Prof. Junqiao Wu and Prof. Jie Yao
-  education2: Postdoc Faculty at Lawrence Berkeley National Laboratory with Prof. Junqiao Wu
-  education3: Research Assistant at Tsinghua University, Department of Precision Instrument with Prof. Zheng You
-  education4: Ph.D at Tsinghua University, Department of Precision Instrument with Prof. Zheng You
-  education5: Joint Ph.D at UC Berkeley, Department of Materials Science and Engineering, with Prof. Junqiao Wu and Prof Jie Yao
-
 - name: Xuzhe Zhao
   photo: XuzheZhao.jpg
   info: Ph.D Student, started Sept. 2023
@@ -23,11 +12,10 @@
   number_educ: 1
   education1: Bachelor of Science at Peking University, School of Physics.
 
-
 - name: "This could be you !"
   photo: Dong_Lab.png
-  info: See <a href="https://dkcgroup.github.io/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
+  info: See <a href="https://dkcgroup.github.io/vacancies">vacancies</a> for more info
+  email: 
   number_educ: 0
   education1:
   education2:

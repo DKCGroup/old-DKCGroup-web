@@ -5,7 +5,7 @@
   link:
     url: https://doi.org/10.1364/OE.485934
     display: Optics Express 31 (9), 14367-14376
-  highlight: 1
+  highlight: 0
 
 - title: "Radiative cooling, what’s next?"
   image: cooling.jpg
@@ -25,15 +25,6 @@
     display: Nanophotonics 11 (21), 4747-4753
   highlight: 0
 
-- title: "Reducing temperature swing of space objects with temperature-adaptive solar or radiative coating"
-  image: TARCS.jpg
-  description: Here, we simulate and present the great potential of TASCs and TARCs as future passive TMTs for space objects. A case study of a geosynchronous satellite with body-mounted solar panels covered by TARC exhibits an interior temperature swing as small as 20.3°C–25.6°C in an orbital period even with solar eclipses. 
-  authors: Kaichen Dong, Derick Tseng, Jiachen Li, Sorren Warkander, Jie Yao, Junqiao Wu
-  link:
-    url: https://doi.org/10.1016/j.xcrp.2022.101066
-    display: Cell Reports Physical Science 3 (10), 101066
-  highlight: 1
-
 - title: "Temperature-adaptive radiative coating for all-season household thermal regulation"
   image: TARC.png
   description: We approached thermal regulation from an all-season perspective by developing a mechanically flexible coating that adapts its thermal emittance to different ambient temperatures. The fabricated temperature-adaptive radiative coating (TARC) optimally absorbs the solar energy and automatically switches thermal emittance from 0.20 for ambient temperatures lower than 15°C to 0.90 for temperatures above 30°C, driven by a photonically amplified metal-insulator transition. 
@@ -42,7 +33,7 @@
     url: https://www.science.org/doi/10.1126/science.abf7136
     display:  Science 374 (6574), 1504-1509
   highlight: 1
-  news2: See also [New Smart-Roof Coating Enables Year-Round Energy Savings](https://vcresearch.berkeley.edu/news/new-smart-roof-coating-enables-year-round-energy-savings)
+  news2: See also <br/> [UC Berkeley research news](https://vcresearch.berkeley.edu/news/new-smart-roof-coating-enables-year-round-energy-savings) <br/> [Report by Ministry of Science and Technology of the People's Republic of China](https://www.most.gov.cn/gnwkjdt/202201/t20220104_178873.html) <br/> [Report by People.cn(人民网)](http://env.people.com.cn/n1/2021/1217/c1010-32310733.html) <br/> [Report by United Press International](https://www.upi.com/Science_News/2021/12/16/energy-efficient-roof-system-study/1151639670532/) <br/> [Report by ABC7](https://abc7news.com/cool-roofs-uc-berkeley-smart-roof-climate-change-lawrence-lab/11550034/)
 
 - title: "Flat bands in magic-angle bilayer photonic crystals at small twists"
   image: TBPC.png
@@ -52,7 +43,16 @@
     url: https://doi.org/10.1103/PhysRevLett.126.223601
     display:  Physical review letters 126 (22), 223601
   highlight: 1
-  news2: See also [PRL's Editor's suggestion](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.223601) and [UC Berkeley MSE department news](https://mse.berkeley.edu/2021/06/professor-jie-yaos-group-discovers-the-magic-angle-effects-in-twisted-bilayer-photonic-crystals-that-leads-to-strong-light-matter-interaction-and-light-localization/)
+  news2: See also <br/> [PRL's Editor's suggestion](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.223601) <br/> [UC Berkeley MSE department news](https://mse.berkeley.edu/2021/06/professor-jie-yaos-group-discovers-the-magic-angle-effects-in-twisted-bilayer-photonic-crystals-that-leads-to-strong-light-matter-interaction-and-light-localization/)
+
+- title: "Reducing temperature swing of space objects with temperature-adaptive solar or radiative coating"
+  image: TARCS.jpg
+  description: Here, we simulate and present the great potential of TASCs and TARCs as future passive TMTs for space objects. A case study of a geosynchronous satellite with body-mounted solar panels covered by TARC exhibits an interior temperature swing as small as 20.3°C–25.6°C in an orbital period even with solar eclipses. 
+  authors: Kaichen Dong, Derick Tseng, Jiachen Li, Sorren Warkander, Jie Yao, Junqiao Wu
+  link:
+    url: https://doi.org/10.1016/j.xcrp.2022.101066
+    display: Cell Reports Physical Science 3 (10), 101066
+  highlight: 1
 
 - title: "Millikelvin-resolved ambient thermography"
   image: TIS.jpeg

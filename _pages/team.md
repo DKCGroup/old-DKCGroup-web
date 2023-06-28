@@ -8,9 +8,47 @@ permalink: /team/
 
 # Group Members
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see vacancies)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 ## Current Members
+<div class="row">
+<div class="col-sm-6">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/KaichenDong.jpg" class="img-responsive" width="25%" style="float: left" />
+  <h3>Kaichen Dong</h3>
+  <i>Assistant Professor, started Nov. 2022 
+  <br>email: <dkc22@sz.tsinghua.edu.cn></i>
+  <h4> Professional Experience </h4>
+  <ul style="overflow: hidden">
+  <li> Kaichen also holds positions at the <a href="https://www.sigs.tsinghua.edu.cn/en/2023/0315/c1303a59844/page.htm) 
+"> institute of Data and Information (iDI) </a> and the Center of Double Helix (CDH) </li> 
+  <li> Postdoc Researcher at UC Berkeley, Department of Materials Science and Engineering with Prof. Junqiao Wu and Prof. Jie Yao </li>
+  <li> Postdoc affiliate at Lawrence Berkeley National Laboratory with Prof. Junqiao Wu </li>
+  <li> Research associate at Tsinghua University, Department of Precision Instrument with Prof. Zheng You </li>
+  </ul>
+
+</div>
+
+<div class="col-sm-6">
+  
+  <h4> Education Background </h4>
+  <ul style="overflow: hidden">
+  <li> Ph.D at Tsinghua University, Department of Precision Instrument with Prof. Zheng You</li> 
+  <li> Visiting Ph.D. student at UC Berkeley, Department of Materials Science and Engineering, with Prof. Junqiao Wu and Prof Jie Yao </li>
+  <li> B.E at Tsinghua University, Department of Precision Instrument. </li>
+  </ul>
+
+  <h4> Awards & Honors: </h4>
+  <ul style="overflow: hidden">
+  <li> 2022, Shenzhen Pengcheng Peacock Plan (Class-B)</li> 
+  <li> 2022, National Early-Career Award </li>
+  <li> 2022, <a href="https://www.technologyreview.com/innovator/kaichen-dong"> MIT Technology Review’s Global 35 Innovators Under 35 </a> </li>
+  <li> 2018, National Excellent Doctoral Dissertation Award in the field of Measurement, Control and Instrument from the China Instrument and Control Society </li>
+  <li> 2018, Excellent Ph.D. Thesis, Tsinghua University </li>
+  </ul>
+</div>
+</div>
+
+
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -22,8 +60,9 @@ permalink: /team/
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  <h3>{{ member.name }}</h3>
+  <i>{{ member.info }} 
+  <!--<br>email: <{{ member.email }}>--></i>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}

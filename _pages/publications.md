@@ -52,21 +52,15 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
-## Patents
-
-{% for patent in site.data.patentlist %}
-
-  {{ patent.title }} <br />
-  <em>{{ patent.authors }} </em><br />
-
-{% endfor %}
-
-
 ## Full List of publications
+
+{% assign index = 0 %}
 
 {% for publi in site.data.publist %}
 
-  {{ publi.title }} <br />
+  {% assign index = index | plus: 1 %}
+
+  {{index}}. {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
