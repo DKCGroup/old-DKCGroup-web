@@ -75,6 +75,6 @@ permalink: /publications/
   {% assign index = index | plus: 1 %}
 
   {{index}}. {{ conf.title }} <br />
-  <em>{{ conf.authors }} </em><br />{{ conf.name }}</a>
+  <em>{{ conf.authors }} </em><br/> <a href="{{ conf.link.url}}">{{ conf.link.display }}</a>
 
 {% endfor %}

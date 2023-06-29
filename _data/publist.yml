@@ -1,3 +1,40 @@
+- title: "Scalable and Durable Temperature-Stabilizing Janus Thermal Cloak"
+  image: 
+  description: 
+  authors: Jiachen Li and Kaichen Dong#
+  link:
+    url: 
+    display: Joule (accepted)
+  highlight: 0
+
+- title: "Printable, emissivity-adaptive and albedo-optimized covering for year-round energy savings"
+  image: 
+  description: 
+  authors: Jiachen Li*, Kaichen Dong*, Tiancheng Zhang, Derick Tseng, Cheng Fang, Ruihan Guo, Jingang Li, Yujie Xu, Chaochao Dun, Jeffrey J. Urban, Tianzhen Hong, Costas P. Grigoropoulos, Ali Javey, Jie Yao, Junqiao Wu
+  link:
+    url: 
+    display: submitted (2023)
+  highlight: 0
+  
+- title: "Twisted moire photonic crystal enabled optical vortex generation through bound states in the continuum"
+  image: 
+  description: 
+  authors: Tiancheng Zhang*, Kaichen Dong*, Jiachen Li, Fanhao Meng, Jingang Li, Sai Munagavalasa, Costas P. Grigoropoulos, Junqiao Wu, and Jie Yao
+  link:
+    url: 
+    display: submitted (2023)
+  highlight: 0
+
+- title: "Radiative cooling, what's next?"
+  image: cooling.jpg
+  description: In this work, the development timeline of radiative coatings is summarized and potential research directions in this field are analyzed. Existing challenges and opportunities, especially for passively switchable radiative coatings, are discussed.
+  authors: K Dong, J Wu
+  link:
+    url: https://doi.org/10.1016/j.nxener.2023.100003
+    display: Next Energy, 100003
+  highlight: 0
+
+
 - title: "Single-pixel reconstructive mid-infrared micro-spectrometer"
   image: micro-spectrometer.png
   description: In this work, we demonstrate a single-pixel MIR micro-spectrometer that reconstructs the sample transmission spectrum by a spectrally dispersed light source instead of spatially grated light beams. The spectrally tunable MIR light source is realized based on the thermal emissivity engineered via the metal-insulator phase transition of vanadium dioxide (VO2).
@@ -5,15 +42,6 @@
   link:
     url: https://doi.org/10.1364/OE.485934
     display: Optics Express 31 (9), 14367-14376
-  highlight: 0
-
-- title: "Radiative cooling, what’s next?"
-  image: cooling.jpg
-  description: In this work, the development timeline of radiative coatings is summarized and potential research directions in this field are analyzed. Existing challenges and opportunities, especially for passively switchable radiative coatings, are discussed.
-  authors: K Dong, J Wu
-  link:
-    url: https://doi.org/10.1016/j.nxener.2023.100003
-    display: Next Energy, 100003
   highlight: 0
 
 - title: "Low-loss, geometry-invariant optical waveguides with near-zero-index materials"
@@ -26,7 +54,7 @@
   highlight: 0
 
 - title: "Temperature-adaptive radiative coating for all-season household thermal regulation"
-  image: TARC.png
+  image: TARC.jpg
   description: We approached thermal regulation from an all-season perspective by developing a mechanically flexible coating that adapts its thermal emittance to different ambient temperatures. The fabricated temperature-adaptive radiative coating (TARC) optimally absorbs the solar energy and automatically switches thermal emittance from 0.20 for ambient temperatures lower than 15°C to 0.90 for temperatures above 30°C, driven by a photonically amplified metal-insulator transition. 
   authors: Kechao Tang *, Kaichen Dong *, Jiachen Li *, Madeleine P Gordon, Finnegan G Reichertz, Hyungjin Kim, Yoonsoo Rho, Qingjun Wang, Chang-Yu Lin, Costas P Grigoropoulos, Ali Javey, Jeffrey J Urban, Jie Yao, Ronnen Levinson, Junqiao Wu
   link:
@@ -64,7 +92,18 @@
   highlight: 1
   news2: See also [Cover paper of Berkeley Engineer](https://engineering.berkeley.edu/magazine/fall-2020/)
 
-- title: "A thermal radiation modulation platform by emissivity engineering with graded metal–insulator transition"
+
+- title: "Tunable Analog Thermal Material"
+  image: 
+  authors: G. Xu, K. Dong, Y. Li, H. Li, K. Liu, L. Li, J. Wu, and C.-W. Qiu
+  description:
+  link:
+    url: https://www.nature.com/articles/s41467-020-19909-0
+    display:  Nature communications 11 (1), 6028
+  highlight: 0
+  news2:
+
+- title: "A Thermal Radiation Modulation Platform by Emissivity Engineering with Graded Metal-Insulator Transition"
   image: GMIT.png
   description: Here, an unusual material platform is shown in which ε can be engineered to decrease in an arbitrary manner near room temperature (|dε/dT| ≈ 8e−3 \°C), enabling unprecedented manipulation of infrared radiation. As an example, εint is programmed to vary with temperature as the inverse of T^4, precisely counteracting the T^4 dependence; hence, thermal radiance from the surface becomes temperature-independent, allowing the fabrication of flexible and power-free infrared camouflage with unique advantage in performance stability. 
   authors: Kechao Tang, Xi Wang, Kaichen Dong, Ying Li, Jiachen Li, Bo Sun, Xiang Zhang, Chris Dames, Chengwei Qiu, Jie Yao, Junqiao Wu
@@ -73,7 +112,6 @@
     display: Advanced materials 32 (36), 1907071
   highlight: 1
   news2: See also [Researchers create surface coating that can create false infrared images](https://vcresearch.berkeley.edu/news/researchers-create-surface-coating-can-create-false-infrared-images)
-
 
 - title: "A Lithography‐Free and Field‐Programmable Photonic Metacanvas"
   image: metacanvas.png
@@ -95,15 +133,6 @@
   highlight: 1
   news2: See also [Cover Letter of Small](https://onlinelibrary.wiley.com/toc/16136829/2018/14/14)
 
-- title: "Tunable Analog Thermal Material"
-  image: 
-  authors: G. Xu, K. Dong, Y. Li, H. Li, K. Liu, L. Li, J. Wu, and C.-W. Qiu
-  description:
-  link:
-    url: https://www.nature.com/articles/s41467-020-19909-0
-    display:  Nature communications 11 (1), 6028
-  highlight: 0
-  news2:
 
 - title: "Subwavelength Light Confinement and Enhancement Enabled by Dissipative Dielectric Nanostructures"
   image: 
@@ -125,3 +154,65 @@
   highlight: 0
   news2:
 
+- title: "脉冲激光沉积薄膜的残余应力测量"
+  image:
+  description:
+  authors: 董恺琛, 娄帅, 姚杰, 吴军桥, 尤政
+  link:
+    url: http://www.cqvip.com/qk/92835a/201801/674437160.html
+    display: 光学精密工程, 26, 70-76 (2018).
+  highlight: 0
+  
+- title: "All-Silicon Broadband Ultraviolet Metasurfaces"
+  image:
+  description:
+  authors: Y. Deng*, X. Wang*, Z. Gong*, K. Dong, S. Lou, N. Pégard, K. B. Tom, F. Yang, Z. You, L. Waller, and J. Yao.
+  link: 
+    url: https://doi.org/10.1002/adma.201802632
+    display: Advanced Materials, 30, 1802632 (2018).
+  highlight: 0
+
+- title: "Enhancing Modulation of Thermal Conduction in Vanadium Dioxide Thin Film by Nanostructured Nanogaps"
+  image:
+  description:
+  authors: H. S. Choe, J. Suh, C. Ko, K. Dong, S. Lee, J. Park, Y. Lee, K. Wang, and J. Wu.
+  link:
+    url: https://doi.org/10.1038/s41598-017-07466-4
+    display: Scientific Reports, 7, 7131 (2017).
+  highlight: 0
+
+- title: "Stress Compensation for Arbitrary Curvature Control in Vanadium Dioxide Phase Transition Actuators"
+  image:
+  description:
+  authors: K. Dong#, S. Lou, H. S. Choe, K. Liu, Z. You, J. Yao, and J. Wu#
+  link: 
+    url: https://doi.org/10.1063/1.4958692
+    display: Applied Physics Letters, 109, 023504 (2016).
+  highlight: 0
+
+- title: "Modulating Photoluminescence of Monolayer Molybdenum Disulfide by Metal–Insulator Phase Transition in Active Substrates"
+  image:
+  description:
+  authors: J. Hou, X. Wang, D. Fu, C. Ko, Y. Chen, Y. Sun, S. Lee, K. X. Wang, K. Dong, Y. Sun, S. Tongay, L. Jiao, J. Yao, K. Liu, and J. Wu.
+  link:
+    url: https://doi.org/10.1002/smll.201601021
+    display: Small, 12, 3976-3984 (2016).
+  highlight: 0
+
+- title: "Tunable Bragg Filters with a Phase Transition Material Defect Layer"
+  image:
+  description:
+  authors: X. Wang, Z. Gong, K. Dong, S. Lou, J. Slack, A. Anders, and J. Yao.
+  link:
+    url: https://doi.org/10.1364/OE.24.020365
+    display: Optics Express, 24, 20365-20372 (2016).
+  highlight: 0
+
+- title: "Vibrational Spectrum Renormalization by Enforced Coupling Across the Van der Waals Gap between MoS2 and WS2 Monolayers"
+  image:
+  description:
+  authors: W. Fan, X. Zhu, F. Ke, Y. Chen, K. Dong, J. Ji, B. Chen, S. Tongay, J. W. Ager, K. Liu, H. Su, and J. Wu.
+  link:
+    url: https://doi.org/10.1103/PhysRevB.92.241408
+    display: Physical Review B, 92, 241408 (2015).
+  highlight: 0
