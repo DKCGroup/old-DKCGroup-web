@@ -12,6 +12,14 @@
   number_educ: 1
   education1: Bachelor of Science at Peking University, School of Physics.
 
+- name: Yuemeng Wang
+  photo: yuemeng wang.jpeg
+  info: Scientific Secretary
+  email: wangyuemeng@sz.tsinghua.edu.cn
+  number_educ: 1
+  education1: Master of Communication and Media Studies at Monash University, School of Media， Film and Journalism
+
+
 - name: "This could be you !"
   photo: Dong_Lab.png
   info: See <a href="https://dkcgroup.github.io/vacancies">vacancies</a> for more info
