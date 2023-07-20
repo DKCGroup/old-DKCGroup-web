@@ -3,8 +3,8 @@
   description: 
   authors: Jiachen Li and Kaichen Dong#
   link:
-    url: 
-    display: Joule (accepted)
+    url: https://www.sciencedirect.com/science/article/abs/pii/S2542435123002702?dgcid=author
+    display: submitted (2023)
   highlight: 0
 
 - title: "Printable, emissivity-adaptive and albedo-optimized covering for year-round energy savings"
@@ -19,7 +19,7 @@
 - title: "Twisted moire photonic crystal enabled optical vortex generation through bound states in the continuum"
   image: 
   description: 
-  authors: Tiancheng Zhang*, Kaichen Dong*, Jiachen Li, Fanhao Meng, Jingang Li, Sai Munagavalasa, Costas P. Grigoropoulos, Junqiao Wu, and Jie Yao
+  authors: Tiancheng Zhang*, Kaichen Dong*#, Jiachen Li, Fanhao Meng, Jingang Li, Sai Munagavalasa, Costas P. Grigoropoulos, Junqiao Wu, and Jie Yao#
   link:
     url: 
     display: submitted (2023)
@@ -34,7 +34,6 @@
     display: Next Energy, 100003
   highlight: 0
 
-
 - title: "Single-pixel reconstructive mid-infrared micro-spectrometer"
   image: micro-spectrometer.png
   description: In this work, we demonstrate a single-pixel MIR micro-spectrometer that reconstructs the sample transmission spectrum by a spectrally dispersed light source instead of spatially grated light beams. The spectrally tunable MIR light source is realized based on the thermal emissivity engineered via the metal-insulator phase transition of vanadium dioxide (VO2).
@@ -44,6 +43,15 @@
     display: Optics Express 31 (9), 14367-14376
   highlight: 0
 
+- title: "Room-temperature skyrmion lattice in a layered magnet (Fe0.5Co0.5)5GeTe2r"
+  image: 
+  description: 
+  authors: Hongrui Zhang, David Raftery, Ying-ting Chan, Yu-tsun Shao, Rui Chen, Xiang Chen, Xiaomi Huang, Jonathan T. Reichanadter, Kaichen Dong, Sandhya Susarla, Lucas Caretta,  Zhen Chen, Jie Yao, 
+Peter Fischer, Jeffrey B. Neaton, Weida Wu, David A. Muller, Robert J. Birgeneau, and Ramamoorthy Ramesh 
+    url: https://www.science.org/doi/10.1126/sciadv.abm7103
+    display: Science advances 8(12), eabm7103
+  highlight: 0
+  
 - title: "Low-loss, geometry-invariant optical waveguides with near-zero-index materials"
   image: 
   description: Here we propose to use near-zero-index materials as a cladding layer for low-loss optical waveguides, where optical modes are tightly confined within the dielectric core region. Compared to conventional waveguides, the near-zero-index waveguides are superior in maintaining a high mode-filling factor for small device sizes close to the diffraction limit and reducing the crosstalk in between at a sub-wavelength separation. 
@@ -66,7 +74,7 @@
 - title: "Flat bands in magic-angle bilayer photonic crystals at small twists"
   image: TBPC.png
   description:  In this work, we formulate a coupled-mode theory for low-angle twisted bilayer honeycomb photonic crystals as a close analogy of TBG, discovering magic-angle photonic flat bands with a non-Anderson-type localization. Moreover, the interlayer separation constitutes a convenient degree of freedom in tuning photonic moir´e bands without high pressure. A phase diagram is constructed to correlate the twist angle and separation dependencies to the photonic magic angles.
-  authors: Kaichen Dong, Tiancheng Zhang, Jiachen Li, Qingjun Wang, Fuyi Yang, Yoonsoo Rho, Danqing Wang, Costas P Grigoropoulos, Junqiao Wu, Jie Yao
+  authors: Kaichen Dong*, Tiancheng Zhang*, Jiachen Li, Qingjun Wang, Fuyi Yang, Yoonsoo Rho, Danqing Wang, Costas P Grigoropoulos, Junqiao Wu, Jie Yao
   link:
     url: https://doi.org/10.1103/PhysRevLett.126.223601
     display:  Physical review letters 126 (22), 223601
@@ -85,7 +93,7 @@
 - title: "Millikelvin-resolved ambient thermography"
   image: TIS.jpeg
   description: In this work, we take a distinct approach of sensitizing surface radiation against minute temperature variation of the object. The emissivity of the thermal imaging sensitizer (TIS) rises abruptly at a preprogrammed temperature, driven by a metal-insulator transition in cooperation with photonic resonance in the structure.
-  authors: Kechao Tang, Kaichen Dong, Christopher J Nicolai, Ying Li, Jiachen Li, Shuai Lou, Cheng-Wei Qiu, David H Raulet, Jie Yao, Junqiao Wu
+  authors: Kechao Tang*, Kaichen Dong*, Christopher J Nicolai, Ying Li, Jiachen Li, Shuai Lou, Cheng-Wei Qiu, David H Raulet, Jie Yao, Junqiao Wu
   link:
     url: https://www.science.org/doi/full/10.1126/sciadv.abd8688
     display:  Science advances 6 (50), eabd8688
