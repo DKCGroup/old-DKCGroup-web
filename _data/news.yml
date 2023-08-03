@@ -1,42 +1,54 @@
-    
-- date: 30. July 2023
-  headline: 董恺琛：“基于相变材料二氧化钒的零功耗智能微器件”，2023中国光学学会学术大会特色专题“光谷论坛”主题报告
+- date: 31. July 2023
+  headline: 董恺琛:“基于相变材料二氧化钒的零功耗智能微器件”，2023中国光学学会学术大会特色专题“光谷论坛”主题报告
+  haslink: 1
   link:
-    url: https://mp.weixin.qq.com/s/T4WQFmfmScYFeN95O34RuQ
+    url: https://mp.weixin.qq.com/s/T4WQFmfmScYFeN95034RuQ
     display: 光谷实验室
-    
+
 - date: 29. April 2023
   headline: 董恺琛：“基于二氧化钒的 MEMS 开关和红外智能柔性薄膜技术”，清华大学智能微系统团队学术研讨会主题报告
+  haslink: 0
 
 - date: 1. April 2022
-  headline: Chunjiang Li joins as a Master's student! Welcome Chunjiang!
+  headline: Chunjiang Li joins as an Master student! Welcome Chunjiang!
+  haslink: 0
 
 - date: 25. Feburary 2023
   headline: 董恺琛：“为光子辐射散热技术赋予智能”，清华大学深圳国际研究生院数据与信息研究院主题报告
+  haslink: 0
 
 - date: 1. Feburary 2023
   headline: 董恺琛：“基于二氧化钒的无源温度自适应柔性覆层”，四川大学材料科学与工程学院
+  haslink: 0
 
 - date: 18. December 2022
   headline: 董恺琛老师入选“深圳鹏城孔雀计划（B类）”
+  haslink: 0
 
 - date: 14. November 2022
   headline: 董恺琛：“为辐射散热材料赋予智能”，世界科技青年论坛
+  haslink: 0
 
 - date: 1. October 2022
-  headline: Xuzhe Zhao joins as a Ph.D student! Welcome Xuzhe!
+  headline: Xuzhe Zhao joins as an Ph.D student! Welcome Xuzhe!
+  haslink: 0
 
 - date: 22. July 2022
   headline: 董恺琛：“最平凡的作品”，清华大学精密仪器系成立十周年系列讲座
+  haslink: 0
 
 - date: 29. June 2022
   headline: 董恺琛老师入选《麻省理工科技评论》全球“35岁以下科技创新35人”（MIT TR35）
+  haslink: 0
 
 - date: 12. June 2022
   headline: 董恺琛：“Smart radiative cooling for all-season household thermal regulation”. 清华大学精密仪器系博士生论坛主题报告
+  haslink: 0
 
 - date: 7. April 2022
   headline: 董恺琛：“Smart radiative cooling for all-season household thermal regulation”, MSE Seminar at U.C. Berkeley
+  haslink: 0
 
 - date: 13. March 2022
   headline: “Smart radiative cooling for all-season household thermal regulation”, Engineering and Applied Science Forum
+  haslink: 0
