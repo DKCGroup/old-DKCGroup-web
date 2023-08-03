@@ -11,6 +11,9 @@ permalink: /allnews.html
 {% for article in site.data.news %}
 <p>{{ article.date }} <br>
 {{ article.headline }}
+{% if article.haslink == 1%}
+，参见：<a href="{{ article.link.url}}">{{ article.link.display }}</a>
+{% endif %}
 </p>
     
 {% endfor %}
