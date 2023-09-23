@@ -1,3 +1,10 @@
+- name: Yuemeng Wang
+  photo: yuemengwang.jpeg
+  info: Administrative assistant, started June. 2023
+  email: wangyuemeng@sz.tsinghua.edu.cn
+  number_educ: 1
+  education1: Master of Communication and Media Studies at Monash University, School of Media, Film and Journalism
+
 - name: Xuzhe Zhao
   photo: XuzheZhao.jpg
   info: Ph.D Student, started Sept. 2023
@@ -26,14 +33,6 @@
   email: chenqy_js@163.com
   number_educ: 1
   education1: Bachelor of Engineering at Beijing Information Science & Technology University, School of Automation
-  
-- name: Yuemeng Wang
-  photo: yuemengwang.jpeg
-  info: Administrative assistant, started June. 2023
-  email: wangyuemeng@sz.tsinghua.edu.cn
-  number_educ: 1
-  education1: Master of Communication and Media Studies at Monash University, School of Media, Film and Journalism
-
 
 - name: "This could be you !"
   photo: Dong_Lab.png
