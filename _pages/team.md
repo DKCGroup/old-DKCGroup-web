@@ -49,6 +49,16 @@ permalink: /team/
 </div>
 </div>
 
+## Administrative Assistant
+
+<div class="row">
+<div class="col-sm-6">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/yuemengwang.jpeg" class="img-responsive" width="25%" style="float: left" />
+  <h3>Yuemeng(Yona) Wang</h3>
+  <i>Administrative assistant, started June 2023.
+  <br>email: <wangyuemeng@sz.tsinghua.edu.cn></i>
+</div>
+</div>
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
