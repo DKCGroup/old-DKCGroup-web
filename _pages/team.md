@@ -10,7 +10,7 @@ permalink: /team/
 
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see vacancies)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
-## Current Members
+## Principle Investigator
 <div class="row">
 <div class="col-sm-6">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/KaichenDong.jpg" class="img-responsive" width="25%" style="float: left" />
@@ -60,6 +60,7 @@ permalink: /team/
 </div>
 </div>
 
+## Current Students
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
