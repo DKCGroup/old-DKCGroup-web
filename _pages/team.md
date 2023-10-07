@@ -19,9 +19,9 @@ permalink: /team/
   <br>email: <dkc22@sz.tsinghua.edu.cn></i>
   <h4> Professional Experience </h4>
   <ul style="overflow: hidden">
-  <li> Kaichen also holds positions at the <a href="https://www.sigs.tsinghua.edu.cn/en/2023/0315/c1303a59844/page.htm
-"> institute of Data and Information (iDI) </a> and the <a href="https://cdh.sigs.tsinghua.edu.cn/main.htm
-"> Center of Double Helix (CDH) </a> </li> 
+  <li> Kaichen also holds positions as the deputy director at the <a href="https://cdh.sigs.tsinghua.edu.cn/main.htm
+"> Center of Double Helix (CDH) </a> and the <a href="https://www.sigs.tsinghua.edu.cn/en/2023/0315/c1303a59844/page.htm
+"> institute of Data and Information (iDI) </a>  </li> 
   <li> Postdoc Researcher at UC Berkeley, Department of Materials Science and Engineering with Prof. Junqiao Wu and Prof. Jie Yao </li>
   <li> Postdoc affiliate at Lawrence Berkeley National Laboratory with Prof. Junqiao Wu </li>
   <li> Research associate at Tsinghua University, Department of Precision Instrument with Prof. Zheng You </li>
