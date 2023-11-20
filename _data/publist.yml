@@ -1,11 +1,11 @@
 - title: "Scalable and Durable Temperature-Stabilizing Janus Thermal Cloak"
-  image: 
+  image: joule.png
   description: 
   authors: Jiachen Li and Kaichen Dong#
   link:
     url: https://www.sciencedirect.com/science/article/abs/pii/S2542435123002702?dgcid=author
     display: Joule 7(7), 1402-1405
-  highlight: 0
+  highlight: 1
 
 - title: "Printable, emissivity-adaptive and albedo-optimized covering for year-round energy savings"
   image: 
