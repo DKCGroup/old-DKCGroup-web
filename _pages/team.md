@@ -60,7 +60,7 @@ permalink: /team/
 </div>
 </div>
 
-## Current Students
+## Ph.D/Master Students
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -123,7 +123,4 @@ permalink: /team/
 </div>
 {% endif %}
 
-
-
-## Administrative Support
-Ms. Yuemeng Wang <a href="wangyuemeng@sz.tsinghua.edu.cn">(email)</a> is helping us with administration.
+## Undergraduate Students
