@@ -27,6 +27,13 @@
   number_educ: 1
   education1: Bachelor of Engineering at Beijing Information Science & Technology University, School of Automation
 
+- name: Zhiyun Wang
+  photo: zhiyunwang.jpeg
+  info: undergraduate Student, started Oct. 2023
+  email: zywang323@stu.xidian.edu.cn
+  number_educ: 1
+  education1: Bachelor of Engineering at Xidian University, School of Mechano-Electronic Engineering.
+  
 - name: "This could be you !"
   photo: Dong_Lab.png
   info: See <a href="https://dkcgroup.github.io/vacancies">vacancies</a> for more info
