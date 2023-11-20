@@ -19,7 +19,8 @@
 
 - title: "Scalable and Durable Temperature-Stabilizing Janus Thermal Cloak"
   image: joule.png
-  description: 
+  description: We realize a scalable and durable Janus thermal cloak (JTC) for all-season,passive temperature regulation through radiative cooling and photon recycling. Our field tests on electric vehicles show that the JTC achieves daytime subambient cooling by 8.0C in summer and
+nighttime supra-ambient warming by 6.8C in winter. The JTC is reliable, trulypassive, and does not involve phase change or moving parts, thus is promising for use in real-world applications in buildings, vehicles, and extraterrestrial environments.
   authors: Jiachen Li and Kaichen Dong#
   link:
     url: https://www.sciencedirect.com/science/article/abs/pii/S2542435123002702?dgcid=author
