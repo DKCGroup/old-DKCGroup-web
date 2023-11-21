@@ -27,12 +27,4 @@
   number_educ: 1
   education1: Bachelor of Engineering at Beijing Information Science & Technology University, School of Automation
   
-- name: "This could be you !"
-  photo: Dong_Lab.png
-  info: See <a href="https://dkcgroup.github.io/vacancies">vacancies</a> for more info
-  email: 
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
+
