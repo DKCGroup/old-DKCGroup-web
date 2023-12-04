@@ -74,7 +74,7 @@
 - title: "Flat bands in magic-angle bilayer photonic crystals at small twists"
   image: TBPC.png
   description:  In this work, we formulate a coupled-mode theory for low-angle twisted bilayer honeycomb photonic crystals as a close analogy of TBG, discovering magic-angle photonic flat bands with a non-Anderson-type localization. Moreover, the interlayer separation constitutes a convenient degree of freedom in tuning photonic moir´e bands without high pressure. A phase diagram is constructed to correlate the twist angle and separation dependencies to the photonic magic angles.
-  authors: Kaichen Dong*, Tiancheng Zhang*, Jiachen Li, Qingjun Wang, Fuyi Yang, Yoonsoo Rho, Danqing Wang, Costas P Grigoropoulos, Junqiao Wu, Jie Yao
+  authors: Kaichen Dong\*, Tiancheng Zhang\*, Jiachen Li, Qingjun Wang, Fuyi Yang, Yoonsoo Rho, Danqing Wang, Costas P Grigoropoulos, Junqiao Wu, Jie Yao
   link:
     url: https://doi.org/10.1103/PhysRevLett.126.223601
     display:  Physical review letters 126 (22), 223601
