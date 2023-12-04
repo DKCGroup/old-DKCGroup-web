@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a research group at [TBSI](http://www.tbsi.edu.cn/english/), [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/). [Our group](https://dkcgroup.github.io/team/) is led by Dr. Kaichen Dong [(Google Scholar)](https://scholar.google.com/citations?user=TsEI4AsAAAAJ&hl=en). Our [research interests](https://dkcgroup.github.io/research/) are smart radiative cooling, nanophotonics, photonic crystals, photonic metamaterials/ metasurface, MEMS, and phase-change materials[(see publications)](https://dkcgroup.github.io/publications/). 
+We are a research group at [TBSI](http://www.tbsi.edu.cn/english/), [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/). [Our group](https://dkcgroup.github.io/team/) is led by Dr. Kaichen Dong [(Google Scholar)](https://scholar.google.cz/citations?hl=zh-CN&authuser=1&user=yBX-oTwAAAAJ). Our [research interests](https://dkcgroup.github.io/research/) are smart radiative cooling, nanophotonics, photonic crystals, photonic metamaterials/ metasurface, MEMS, and phase-change materials[(see publications)](https://dkcgroup.github.io/publications/). 
 
 ### New opportunities here:
 <figure>
