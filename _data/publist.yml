@@ -93,7 +93,7 @@
 - title: "Millikelvin-resolved ambient thermography"
   image: TIS.jpeg
   description: In this work, we take a distinct approach of sensitizing surface radiation against minute temperature variation of the object. The emissivity of the thermal imaging sensitizer (TIS) rises abruptly at a preprogrammed temperature, driven by a metal-insulator transition in cooperation with photonic resonance in the structure.
-  authors: Kechao Tang*, Kaichen Dong*, Christopher J Nicolai, Ying Li, Jiachen Li, Shuai Lou, Cheng-Wei Qiu, David H Raulet, Jie Yao, Junqiao Wu
+  authors: Kechao Tang/*, Kaichen Dong/*, Christopher J Nicolai, Ying Li, Jiachen Li, Shuai Lou, Cheng-Wei Qiu, David H Raulet, Jie Yao, Junqiao Wu
   link:
     url: https://www.science.org/doi/full/10.1126/sciadv.abd8688
     display:  Science advances 6 (50), eabd8688
