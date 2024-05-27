@@ -14,7 +14,7 @@ permalink: /team/
 <div class="row">
 <div class="col-sm-4">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/KaichenDong.jpg" class="img-responsive" width="25%" style="float: left" />
-<div>
+</div>
 <div class="col-sm-4">
   <h3>Kaichen Dong</h3>
   <i>Assistant Professor, started Nov. 2022 
