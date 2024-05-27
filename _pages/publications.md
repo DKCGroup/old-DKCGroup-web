@@ -13,7 +13,7 @@ permalink: /publications/
 
 **At the end of this page, you can find the full list of [publications](#full-list-of-publications) and [conferences](#conferences).**
 
-{% for number_printed in 1..10 %}
+{% for number_printed in (1..10) %}
 {% for publi in site.data.publist %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
