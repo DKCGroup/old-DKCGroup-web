@@ -19,14 +19,14 @@ permalink: /team/
   <br>email: <dkc22@sz.tsinghua.edu.cn></i>
   <h4> Professional Experience </h4>
   <ul style="overflow: hidden">
-  <li> Kaichen also holds positions as the deputy director at the <a href="https://cdh.sigs.tsinghua.edu.cn/main.htm
-"> center of Double Helix (CDH) </a> and the assistant professor at the <a href="https://www.sigs.tsinghua.edu.cn/en/2023/0315/c1303a59844/page.htm
-"> institute of Data and Information (iDI) </a>  </li> 
-  <li> Postdoc Researcher at UC Berkeley, Department of Materials Science and Engineering with Prof. Junqiao Wu and Prof. Jie Yao </li>
-  <li> Postdoc affiliate at Lawrence Berkeley National Laboratory with Prof. Junqiao Wu </li>
-  <li> Research associate at Tsinghua University, Department of Precision Instrument with Prof. Zheng You </li>
+  <li> 2024/01 – Now: Director, Intelligent Passive Thermal Control Center (IPTCC), Research Institute of Tsinghua University in Shenzhen </li>
+  <li> 2023/09 – Now: Deputy Director,<a href="https://cdh.sigs.tsinghua.edu.cn/main.htm"> Center of Double Helix (CDH) </a>, Tsinghua Shenzhen International Graduate School, Tsinghua University </li>
+  <li> 2023/02 – Now: Assistant Professor, Tsinghua-Berkeley Shenzhen Institute (TBSI), Institute of Data and Information (iDI), Tsinghua Shenzhen International Graduate School, Tsinghua University </li>
+  <li> 2022/11 – 2023/02: Assistant Professor, Tsinghua-Berkeley Shenzhen Institute (TBSI), Tsinghua Shenzhen International Graduate School, Tsinghua University </li>
+  <li> 2019/03 – 2022/09: Affiliate in Materials Science Division, Lawrence Berkeley National Laboratory. Supervisor: Professor Junqiao Wu </li>
+  <li> 2019/02 – 2022/09: Postdoctoral Researcher in Materials Science and Engineering, University of California, Berkeley. Advisors: Professor Junqiao Wu, Professor Jie Yao </li>
+  <li> 2017/10 – 2019/01: Research Associate in Precision Instrument, Tsinghua University. Supervisor: Professor Zheng You </li>
   </ul>
-
 </div>
 
 <div class="col-sm-6">
