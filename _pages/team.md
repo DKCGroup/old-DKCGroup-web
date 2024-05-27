@@ -12,10 +12,10 @@ permalink: /team/
 
 ## Principle Investigator
 <div class="row">
-<div class="col-sm-4">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/KaichenDong.jpg" class="img-responsive" width="25%" style="float: left" />
+<div class="col-sm-2">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/KaichenDong.jpg" class="img-responsive" width="80%" style="float: left" />
 </div>
-<div class="col-sm-4">
+<div class="col-sm-5">
   <h3>Kaichen Dong</h3>
   <i>Assistant Professor, started Nov. 2022 
   <br>email: <dkc22@sz.tsinghua.edu.cn></i>
@@ -31,7 +31,7 @@ permalink: /team/
   </ul>
 </div>
 
-<div class="col-sm-4">
+<div class="col-sm-5">
   
   <h4> Education Background </h4>
   <ul style="overflow: hidden">
