@@ -13,7 +13,7 @@ permalink: /team/
 ## Principle Investigator
 <div class="row">
 <div class="col-sm-2">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/KaichenDong.jpg" class="img-responsive" width="80%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/KaichenDong.jpg" class="img-responsive" width="100%" style="float: left" />
 </div>
 <div class="col-sm-5">
   <h3>Kaichen Dong</h3>
@@ -65,7 +65,7 @@ permalink: /team/
 </div>
 </div>
 
-## Ph.D/Master Students
+## Graduate Students
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
