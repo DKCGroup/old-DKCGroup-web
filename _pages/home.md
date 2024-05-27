@@ -20,21 +20,15 @@ We are a research group at [Tsinghua-Berkeley Shenzhen Institute](http://www.tbs
 
 <div class="row">
 <div class="col-sm-2">
-    <figure>
-      <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/THU-LOGO.png" width="80%">
-    </figure>
+    <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/THU-LOGO.png" width="80%">
 </div>
     
 <div class="col-sm-3">
-    <figure>
-      <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Tsinghua-SIGS-logo.png" width="80%">
-    </figure>
+    <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Tsinghua-SIGS-logo.png" width="80%">
 </div>
 
 <div class="col-sm-3">
-    <figure>
-      <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/TBSI-logo.png" width="80%">
-    </figure>
+    <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/TBSI-logo.png" width="80%">
 </div>
 </div>
 
