@@ -33,9 +33,10 @@ permalink: /team/
   
   <h4> Education Background </h4>
   <ul style="overflow: hidden">
-  <li> Ph.D at Tsinghua University, Department of Precision Instrument with Prof. Zheng You</li> 
-  <li> Visiting Ph.D. student at UC Berkeley, Department of Materials Science and Engineering, with Prof. Junqiao Wu and Prof Jie Yao </li>
-  <li> B.E at Tsinghua University, Department of Precision Instrument. </li>
+  <li> 2015/07 – 2016/12: Affiliate in Materials Science Division, Lawrence Berkeley National Laboratory. Supervisor: Professor Junqiao Wu </li>
+  <li> 2014/12 – 2016/12: Visiting Ph.D. student in Materials Science and Engineering, University of California, Berkeley. Advisors: Professor Junqiao Wu, Professor Jie Yao </li>
+  <li> 2012/09 – 2017/10: Ph.D. in Precision Instrument, Tsinghua University. Advisor: Professor Zheng You </li>
+  <li> 2008/08 – 2012/07: B.E. in Precision Instrument, Tsinghua University</li>
   </ul>
 
   <h4> Awards & Honors: </h4>
