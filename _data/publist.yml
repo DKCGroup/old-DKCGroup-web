@@ -1,25 +1,34 @@
+- title: "Switchable and Tunable Radiative Cooling: Mechanisms, Applications, and Perspectives"
+  image:
+  description: 
+  authors: X. Zhao\*, J. Li\*, K. Dong\#, J. Wu\#
+  link:
+    url:
+    display: Submitted
+  hightlight: 0
+
 - title: "Printable, emissivity-adaptive and albedo-optimized covering for year-round energy savings"
   image: printable.png
   description: Temperature-adaptive radiative cooling materials overcome the overcooling problem of daytime radiative coolers by automatically switching their thermal emissivity in response to surface temperature. However, practical applications of these materials are limited. As a solution, we adopt a new optical structure with a temperature-adaptive material to enable roll-to-roll fabrication at low cost. Such a structure also features optimizable solar reflection, showing great potential in energy saving and thermal comfort in various climates.
   authors: Jiachen Li\*, Kaichen Dong\*, Tiancheng Zhang, Derick Tseng, Cheng Fang, Ruihan Guo, Jingang Li, Yujie Xu, Chaochao Dun, Jeffrey J. Urban, Tianzhen Hong, Costas P. Grigoropoulos, Ali Javey, Jie Yao, Junqiao Wu
   link:
     url: https://authors.elsevier.com/c/1hyQa925JENm9k
-    display: Joule 7(11), 2552–2567
+    display: Joule 7(11), 2552-2567
   highlight: 1
   
 - title: "Twisted moire photonic crystal enabled optical vortex generation through bound states in the continuum"
   image: 
   description: 
-  authors: Tiancheng Zhang *, Kaichen Dong *#, Jiachen Li, Fanhao Meng, Jingang Li, Sai Munagavalasa, Costas P. Grigoropoulos, Junqiao Wu, and Jie Yao #
+  authors: Tiancheng Zhang\*, Kaichen Dong\*#, Jiachen Li, Fanhao Meng, Jingang Li, Sai Munagavalasa, Costas P. Grigoropoulos, Junqiao Wu, and Jie Yao #
   link:
     url: https://www.nature.com/articles/s41467-023-41068-1
-    display: Nature Communications 14，6014
+    display: Nature Communications 14, 6014
   highlight: 0
 
 - title: "Scalable and Durable Temperature-Stabilizing Janus Thermal Cloak"
   image: joule.png
   description: We realize a scalable and durable Janus thermal cloak (JTC) for all-season, passive temperature regulation through radiative cooling and photon recycling. Our field tests on electric vehicles show that the JTC achieves daytime subambient cooling by 8.0C in summer and nighttime supra-ambient warming by 6.8C in winter. The JTC is reliable, trulypassive, and does not involve phase change or moving parts, thus is promising for use in real-world applications in buildings, vehicles, and extraterrestrial environments.
-  authors: Jiachen Li and Kaichen Dong #
+  authors: Jiachen Li and Kaichen Dong\#
   link:
     url: https://www.sciencedirect.com/science/article/abs/pii/S2542435123002702?dgcid=author
     display: Joule 7(7), 1402-1405
@@ -83,7 +92,7 @@
 
 - title: "Reducing temperature swing of space objects with temperature-adaptive solar or radiative coating"
   image: TARCS.jpg
-  description: Here, we simulate and present the great potential of TASCs and TARCs as future passive TMTs for space objects. A case study of a geosynchronous satellite with body-mounted solar panels covered by TARC exhibits an interior temperature swing as small as 20.3°C–25.6°C in an orbital period even with solar eclipses. 
+  description: Here, we simulate and present the great potential of TASCs and TARCs as future passive TMTs for space objects. A case study of a geosynchronous satellite with body-mounted solar panels covered by TARC exhibits an interior temperature swing as small as 20.3°C-25.6°C in an orbital period even with solar eclipses. 
   authors: Kaichen Dong, Derick Tseng, Jiachen Li, Sorren Warkander, Jie Yao, Junqiao Wu
   link:
     url: https://doi.org/10.1016/j.xcrp.2022.101066
@@ -121,7 +130,7 @@
   highlight: 1
   news2: See also [Researchers create surface coating that can create false infrared images](https://vcresearch.berkeley.edu/news/researchers-create-surface-coating-can-create-false-infrared-images)
 
-- title: "A Lithography‐Free and Field‐Programmable Photonic Metacanvas"
+- title: "A Lithography-Free and Field-Programmable Photonic Metacanvas"
   image: metacanvas.png
   description: Here, by exploiting the hysteretic phase transition of vanadium dioxide, an all-solid, rewritable metacanvas on which nearly arbitrary photonic devices can be rapidly and repeatedly written and erased is presented. The writing is performed with a low-power laser and the entire process stays below 90 °C. 
   authors: Kaichen Dong *, Sukjoon Hong *, Yang Deng, He Ma, Jiachen Li, Xi Wang, Junyeob Yeo, Letian Wang, Shuai Lou, Kyle B Tom, Kai Liu, Zheng You, Yang Wei, Costas P Grigoropoulos, Jie Yao, Junqiao Wu
@@ -131,7 +140,7 @@
   highlight: 1
   news2: See also [Back Cover Letter of Advanced Materials](https://onlinelibrary.wiley.com/doi/10.1002/adma.201870034)
 
-- title: "A 0.2 V micro‐electromechanical switch enabled by a phase transition"
+- title: "A 0.2 V micro-electromechanical switch enabled by a phase transition"
   image: small.png
   authors: Kaichen Dong, Hwan Sung Choe, Xi Wang, Huili Liu, Bivas Saha, Changhyun Ko, Yang Deng, Kyle B Tom, Shuai Lou, Letian Wang, Costas P Grigoropoulos, Zheng You, Jie Yao, Junqiao Wu
   description: Here 0.2 V MEM switching devices with ≳10^6 safe operating cycles in ambient air are reported, which achieve the lowest operating voltage in mechanical switches without body bias reported to date. The ultralow operating voltage is mainly enabled by the abrupt phase transition of nanolayered vanadium dioxide (VO2) slightly above room temperature. 
@@ -198,7 +207,7 @@
     display: Applied Physics Letters, 109, 023504 (2016).
   highlight: 0
 
-- title: "Modulating Photoluminescence of Monolayer Molybdenum Disulfide by Metal–Insulator Phase Transition in Active Substrates"
+- title: "Modulating Photoluminescence of Monolayer Molybdenum Disulfide by Metal-Insulator Phase Transition in Active Substrates"
   image:
   description:
   authors: J. Hou, X. Wang, D. Fu, C. Ko, Y. Chen, Y. Sun, S. Lee, K. X. Wang, K. Dong, Y. Sun, S. Tongay, L. Jiao, J. Yao, K. Liu, and J. Wu.
