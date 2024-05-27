@@ -19,17 +19,19 @@ We are a research group at [Tsinghua-Berkeley Shenzhen Institute](http://www.tbs
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team !**[(see vacancies)](https://dkcgroup.github.io/vacancies)
 
 <div class="row">
-    <div class="col-sm-4">
+<div class="col-sm-4">
     <figure>
       <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/THU-LOGO.png" width="80%">
     </figure>
     </div>
-    <div class="col-sm-4">
+    
+<div class="col-sm-4">
     <figure>
       <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Tsinghua-SIGS-logo.png" width="80%">
     </figure>
     </div>
-    <div id="newsid" class="col-sm-4" >
+
+<div class="col-sm-4" >
     <figure>
       <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/TBSI-logo.png" width="80%">
     </figure>
