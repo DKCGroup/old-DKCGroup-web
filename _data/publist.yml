@@ -16,7 +16,7 @@
     display: Submitted, (2024)
   hightlight: 0
 
-  - title: "Multi-stimulus perception and visualization by an intelligent liquid metalelastomer architecture"
+- title: "Multi-stimulus perception and visualization by an intelligent liquid metalelastomer architecture"
   image:
   description: 
   authors: H. Wang, B. Yuan, X. Zhu, X. Shan, S. Chen, W. Ding, Y. Cao, K. Dong, X. Zhang, R. Guo, Y. Yao, B. Wang, J. Tang,  J. Liu
@@ -28,7 +28,7 @@
 - title: "Twisted moire photonic crystal enabled optical vortex generation through bound states in the continuum"
   image: TBPC_NC.png
   description: We quantitatively analyzed the twist-enabled coupling between the BIC mode and other non-local modes in the photonic crystals, giving rise to radiation carrying orbital angular momentum. The optical vortex generation is robust against geometric disturbance, making TBPC a promising platform for well-defined vortex generation. As a result, TBPCs not only provide a new approach to manipulating the angular momentum of photons, but may also enable novel applications in integrated optical information processing and optical tweezers. Our work broadens the field of moiré photonics and paves the way toward the novel application of moiré physics.
-  authors: Tiancheng Zhang\*, Kaichen Dong\*#, Jiachen Li, Fanhao Meng, Jingang Li, Sai Munagavalasa, Costas P. Grigoropoulos, Junqiao Wu, and Jie Yao #
+  authors: Tiancheng Zhang\*, Kaichen Dong\*#, Jiachen Li, Fanhao Meng, Jingang Li, Sai Munagavalasa, Costas P. Grigoropoulos, Junqiao Wu, and Jie Yao
   link:
     url: https://www.nature.com/articles/s41467-023-41068-1
     display: Nature Communications, 14, 6014 (2023)
