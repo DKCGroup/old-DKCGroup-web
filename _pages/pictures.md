@@ -63,4 +63,4 @@ permalink: /pictures/
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/129.jpg" width="60%"><br/>
 </figure>
-<figcaption> 129 Chorus Competition
+<figcaption> Chunjiang Li, Shujie Yang, Xuzhe Zhao @ 129 Chorus Competition 2023
