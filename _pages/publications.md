@@ -13,13 +13,13 @@ permalink: /publications/
 
 **At the end of this page, you can find the full list of [publications](#full-list-of-publications) and [conferences](#conferences).**
 
-{% assign number_printed = 0 %}
+{% assign number_printed = 1 %}
 {% for publi in site.data.publist %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
-{% if publi.highlight == 1 %}
+{% if publi.highlight == number_printed %}
 
-{% if even_odd == 0 %}
+{% if even_odd == 1 %}
 <div class="row">
 {% endif %}
 
@@ -37,7 +37,7 @@ permalink: /publications/
 
 {% assign number_printed = number_printed | plus: 1 %}
 
-{% if even_odd == 1 %}
+{% if even_odd == 0 %}
 </div>
 {% endif %}
 
@@ -45,7 +45,7 @@ permalink: /publications/
 {% endfor %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
+{% if even_odd == 0 %}
 </div>
 {% endif %}
 
