@@ -26,7 +26,7 @@
   hightlight: 0
 
 - title: "Twisted moire photonic crystal enabled optical vortex generation through bound states in the continuum"
-  image: TBPC_NC.png
+  image: TBPC_NC1.png
   description: We quantitatively analyzed the twist-enabled coupling between the BIC mode and other non-local modes in the photonic crystals, giving rise to radiation carrying orbital angular momentum. The optical vortex generation is robust against geometric disturbance, making TBPC a promising platform for well-defined vortex generation. As a result, TBPCs not only provide a new approach to manipulating the angular momentum of photons, but may also enable novel applications in integrated optical information processing and optical tweezers. Our work broadens the field of moiré photonics and paves the way toward the novel application of moiré physics.
   authors: Tiancheng Zhang\*, Kaichen Dong\*#, Jiachen Li, Fanhao Meng, Jingang Li, Sai Munagavalasa, Costas P. Grigoropoulos, Junqiao Wu, and Jie Yao
   link:
