@@ -10,7 +10,7 @@ We are a research group at [TBSI](http://www.tbsi.edu.cn/english/), [Tsinghua Sh
 
 ### New opportunities here:
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/intro.png" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Intro.png" width="95%">
 </figure>
 
 
