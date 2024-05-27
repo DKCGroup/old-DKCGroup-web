@@ -13,7 +13,7 @@ permalink: /publications/
 
 **At the end of this page, you can find the full list of [publications](#full-list-of-publications) and [conferences](#conferences).**
 
-{% assign number_printed = 1 %}
+{% for number_printed in 1..10 %}
 {% for publi in site.data.publist %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
@@ -35,13 +35,12 @@ permalink: /publications/
  </div>
 </div>
 
-{% assign number_printed = number_printed | plus: 1 %}
-
 {% if even_odd == 0 %}
 </div>
 {% endif %}
 
 {% endif %}
+{% endfor %}
 {% endfor %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
