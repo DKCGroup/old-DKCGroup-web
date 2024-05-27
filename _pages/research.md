@@ -8,23 +8,23 @@ permalink: /research/
 
 # Research
 
-## Several major research topics (in the future):
+## Major research topics:
 
-### Smart radiative cooling
+### Temperature-adaptive radiative cooling
 
-A huge portion of the energy consumption around the world is used to heat and cool buildings. To reduce this consumption and its related emissions, we develop a “smart” coating that can be attached to any roof, which automatically switches from radiating heat away from a home on a hot day to insulating it in cooler weather. The coating works best in areas where the temperature changes significantly from summer to winter or day to night.
-
-### Smart MEMS
-
-By integrating new functional materials into conventional MEMS devices, we develop smart MEMS for versatile smart city applications. We work on the design, modelling, fabrication, and characterization of MEMS.
+Temperature-adaptive radiative cooling is an innovative technology that addresses the challenge of overcooling associated with daytime radiative coolers. This technology utilizes materials with thermal emissivity that adapts to temperature changes, automatically switching between a radiative cooling mode and a heat retaining mode. The adaptive response is designed to efficiently manage the temperature of surfaces—such as building roofs—by radiating excess heat into the atmosphere or space during hot conditions, while reducing heat loss during colder periods to maintain thermal comfort and energy efficiency.
 
 ### Moiré photonics
 
-The new physics of magic-angle twisted bilayer graphene motivated extensive studies of flat bands hosted by moiré superlattices in van der Waals structures, inspiring the investigations into their photonic counterparts with potential applications.
-  
-### Phase-change materials
+Moiré photonics is a field that leverages the optical phenomenon known as the moiré effect, which occurs when two periodic patterns are overlaid on top of each other, creating a new pattern with a larger periodicity. In our research, we are pioneering the study of twisted bilayer photonic crystals (TBPCs), focusing on the intriguing phenomena that emerge from their structural configuration. Our work encompasses the development of a theoretical model to decipher the coupling mechanisms within TBPCs, leading to the discovery of photonic flat bands and the generation of optical vortices. 
 
-The deposition, synthesis and modulation of phase-change material thin films and nanoparticles for device applications.
+### Zero-power smart MEMS sensors
+
+Zero-power smart MEMS sensors refer to a category of microelectromechanical systems (MEMS) sensors that are designed to operate without the need for external power sources. By integrating new functional materials into conventional MEMS devices, we develop smart MEMS for versatile smart city applications. We work on the design, modelling, fabrication, and characterization of MEMS.
+
+### AI for science
+
+We apply artificial intelligence (AI) techniques to advance scientific research and discovery, especially about using AI algorithms to design optical structures in a way that optimizes their properties for various scientific and engineering applications.
 
 ### ... and more.
 
@@ -35,9 +35,9 @@ The deposition, synthesis and modulation of phase-change material thin films and
 
 ## Collaboration
 
-* Peking University, Huazhong University of Science and Technology, Shanghai Jiao Tong University, Beijing University of Technology, etc.
+* Domestic collaboration: Peking University, The University of Hong Kong, Huazhong University of Science and Technology, Shanghai Jiao Tong University, Beijing University of Technology, etc.
 
-* University of California, Berkeley, etc.
+* International collaboration: Massachusetts Institute of Technology, University of California, Berkeley, Northeastern University, etc.
 
 
 
