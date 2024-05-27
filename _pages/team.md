@@ -12,8 +12,10 @@ permalink: /team/
 
 ## Principle Investigator
 <div class="row">
-<div class="col-sm-6">
+<div class="col-sm-4">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/KaichenDong.jpg" class="img-responsive" width="25%" style="float: left" />
+<div>
+<div class="col-sm-4">
   <h3>Kaichen Dong</h3>
   <i>Assistant Professor, started Nov. 2022 
   <br>email: <dkc22@sz.tsinghua.edu.cn></i>
@@ -29,7 +31,7 @@ permalink: /team/
   </ul>
 </div>
 
-<div class="col-sm-6">
+<div class="col-sm-4">
   
   <h4> Education Background </h4>
   <ul style="overflow: hidden">
@@ -41,11 +43,13 @@ permalink: /team/
 
   <h4> Awards & Honors: </h4>
   <ul style="overflow: hidden">
-  <li> 2022, Shenzhen Pengcheng Peacock Plan (Class-B)</li> 
-  <li> 2022, National Early-Career Award </li>
-  <li> 2022, <a href="https://www.technologyreview.com/innovator/kaichen-dong"> MIT Technology Review’s Global 35 Innovators Under 35 </a> </li>
-  <li> 2018, National Excellent Doctoral Dissertation Award in the field of Measurement, Control and Instrument from the China Instrument and Control Society </li>
-  <li> 2018, Excellent Ph.D. Thesis, Tsinghua University </li>
+  <li>2024/03, <a href="https://piers.org/awards/young-scientist-award.html">PIERS Young Scientist Award</a></li>
+  <li>2023/12, Chief Scientist of National Key R&D (Young Scientist) Program of China</li>
+  <li>2022/12, Shenzhen Pengcheng Peacock Plan (Class B)</li>
+  <li>2022/10, National Science Foundation of China (NSFC) Early-Career Award</li>
+  <li>2022/06, <a href="https://www.technologyreview.com/innovator/kaichen-dong">MIT Technology Review Top 35 Innovators Under 35 (TR35, Global List)</a></li>
+  <li>2018/11, National Excellent Doctoral Dissertation in the Field of Measurement, Control and Instrument by China Instrument and Control Society (ranking 1st)</li>
+  <li>2018/07, Excellent Doctoral Dissertation of Tsinghua University</li>
   </ul>
 </div>
 </div>
