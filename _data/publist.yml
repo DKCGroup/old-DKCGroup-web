@@ -158,7 +158,7 @@
   highlight: 0
 
 - title: "A Lithography-Free and Field-Programmable Photonic Metacanvas"
-  image: metacanvas.png
+  image: metacanvas1.png
   description: Here, by exploiting the hysteretic phase transition of vanadium dioxide, an all-solid, rewritable metacanvas on which nearly arbitrary photonic devices can be rapidly and repeatedly written and erased is presented. The writing is performed with a low-power laser and the entire process stays below 90 °C. 
   authors: Kaichen Dong *, Sukjoon Hong *, Yang Deng, He Ma, Jiachen Li, Xi Wang, Junyeob Yeo, Letian Wang, Shuai Lou, Kyle B Tom, Kai Liu, Zheng You, Yang Wei, Costas P Grigoropoulos, Jie Yao, Junqiao Wu
   link:
@@ -178,7 +178,7 @@
   news2:
 
 - title: "A 0.2 V micro-electromechanical switch enabled by a phase transition"
-  image: small.png
+  image: small1.png
   authors: Kaichen Dong, Hwan Sung Choe, Xi Wang, Huili Liu, Bivas Saha, Changhyun Ko, Yang Deng, Kyle B Tom, Shuai Lou, Letian Wang, Costas P Grigoropoulos, Zheng You, Jie Yao, Junqiao Wu
   description: Here 0.2 V MEM switching devices with ≳10^6 safe operating cycles in ambient air are reported, which achieve the lowest operating voltage in mechanical switches without body bias reported to date. The ultralow operating voltage is mainly enabled by the abrupt phase transition of nanolayered vanadium dioxide (VO2) slightly above room temperature. 
   link:

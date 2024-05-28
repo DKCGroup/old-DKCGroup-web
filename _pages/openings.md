@@ -38,5 +38,5 @@ If you are interested in pursuing a Master Program or Ph.D Program via Summer Ca
 
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/sigs_bg.jpg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/sigs_bg1.jpg" width="95%">
 </figure>

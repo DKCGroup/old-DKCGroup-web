@@ -14,11 +14,11 @@ permalink: /pictures/
 </figure>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/lab2.jpg" width="60%"><br/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/lab11.jpg" width="60%"><br/>
 </figure>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/lab3.jpg" width="60%"><br/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/lab12.jpg" width="60%"><br/>
 </figure>
 
 <figure>
@@ -56,7 +56,7 @@ permalink: /pictures/
 <figcaption> Dong的都懂.jpg
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/V50VO2.jpg" width="60%"><br/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/V50VO21.jpg" width="60%"><br/>
 </figure>
 <figcaption> V50 or VO2?
 
