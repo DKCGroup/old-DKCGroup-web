@@ -21,8 +21,8 @@
   description: 
   authors: H. Wang, B. Yuan, X. Zhu, X. Shan, S. Chen, W. Ding, Y. Cao, K. Dong, X. Zhang, R. Guo, Y. Yao, B. Wang, J. Tang,  J. Liu
   link:
-    url:
-    display: <b> Science Advances </b>, in press (2024)
+    url: https://www.science.org/doi/10.1126/sciadv.adp5215
+    display: <b> Science Advances </b>, 10, eadp5215 (2024)
   hightlight: 0
 
 - title: "Twisted moire photonic crystal enabled optical vortex generation through bound states in the continuum"
@@ -49,7 +49,7 @@
   authors: Jiachen Li and Kaichen Dong\#
   link:
     url: https://www.sciencedirect.com/science/article/abs/pii/S2542435123002702?dgcid=author
-    display: <b> Joule </b>, 7, 1399- 1414 (2023)
+    display: <b> Joule </b>, 7, 1399-1414 (2023)
   highlight: 0
 
 - title: "Radiative cooling, what's next?"

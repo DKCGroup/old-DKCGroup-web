@@ -13,13 +13,6 @@ permalink: /pictures/
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/lab1.jpg" width="60%"><br/>
 </figure>
 
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/lab11.jpg" width="60%"><br/>
-</figure>
-
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/lab12.jpg" width="60%"><br/>
-</figure>
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/K.Dong&J.Li.jpg" width="60%"><br/>
@@ -43,10 +36,6 @@ permalink: /pictures/
 </figure>
 <figcaption> Team building in September 2023
 
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/TeachersDay.jpg" width="60%"><br/>
-</figure>
-<figcaption> Teachers Day 2023
 
 ### Everyday Moments
 
