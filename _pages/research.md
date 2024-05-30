@@ -1,5 +1,5 @@
 ---
-title: "Dong Lab -= Research"
+title: "Dong Lab -- Research"
 layout: textlay
 excerpt: "Dong Lab -- Research"
 sitemap: false
